@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Samet</h1>
+<h1 align="center">Hi 👋, I'm Samet t</h1>
 <h3 align="center">Im a Learning Developer for Web and FiveM Development</h3>
 
 📖 Currently learning **Java/Lua/JS**
