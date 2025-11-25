@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Samet</h1>
 <h3 align="center">Im a Learning Developer for Web and FiveM Development</h3>
 
-📖 Currently learning **Java/Lua/JS**
+📖 Currently learning **Java/Javascript/Lua/JS**
 
 <h3 align="left">Tools I use:</h3>
 <p align="left">
